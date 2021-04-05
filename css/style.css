@@ -6,7 +6,7 @@ body {
 .last_news {
     position: relative;
     margin-top: 50px;
-    float: left;
+    /* float: left; */
 }
 
 img {
